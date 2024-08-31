@@ -33,3 +33,5 @@ func main() {
 		log.Panic("Incorrect day")
 	}
 }
+// Rickroll for the most attentive!
+// Рикролл для самых внимательных!
